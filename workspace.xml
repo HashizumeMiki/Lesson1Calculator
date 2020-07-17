@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Lesson1Calculator:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="68d0bcf9-d886-4712-bbaf-ec730d5c7101" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Lesson1Calculator_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson1Calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/lesson1calculator/Lesson1Calculator.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="2" />
+    <option name="OUTPUT_DIRECTORY" value="https://github.com/HashizumeMiki/Lesson1Calculator.git" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eZeCMsvinFymrUvuqUKu2v7Zzq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out/artifacts/Lesson1Calculator_jar" />
+    <property name="project.structure.last.edited" value="アーティファクト" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="JAR アプリケーション.Lesson1Calculatorjar">
+    <configuration name="Lesson1Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.lesson1calculator.Lesson1Calculator" />
+      <module name="Lesson1Calculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.lesson1calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson1Calculatorjar" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/Lesson1Calculator_jar/Lesson1Calculator.jar" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\nf_hashidume\IdeaProjects\Lesson1Calculator" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Lesson1Calculator:jar" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JAR アプリケーション.Lesson1Calculatorjar" />
+      <item itemvalue="アプリケーション.Lesson1Calculator" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="アプリケーション.Lesson1Calculator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68d0bcf9-d886-4712-bbaf-ec730d5c7101" name="Default" comment="" />
+      <created>1594533413311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594533413311</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="603" y="193" key="#BuildArtifactsBeforeRunChooser" timestamp="1594535468417">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="603" y="193" key="#BuildArtifactsBeforeRunChooser/0.0.1366.728@0.0.1366.728" timestamp="1594535468417" />
+    <state x="274" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594535485177">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="274" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1594535485177" />
+    <state x="770" y="162" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1594534497690">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="770" y="162" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1594534497690" />
+    <state x="326" y="0" key="#プロジェクト構造" timestamp="1594534071698">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="326" y="0" key="#プロジェクト構造/0.0.1366.728@0.0.1366.728" timestamp="1594534071698" />
+    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1594970966729">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1594970966729" />
+    <state x="657" y="144" key="FileChooserDialogImpl" timestamp="1594544578172">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="657" y="144" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1594544578172" />
+    <state x="507" y="266" key="Github.CreateGistDialog" timestamp="1594972092533">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="507" y="266" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1594972092533" />
+    <state x="437" y="231" key="Github.CreatePullRequestDialog" timestamp="1594542440555">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="437" y="231" key="Github.CreatePullRequestDialog/0.0.1366.728@0.0.1366.728" timestamp="1594542440555" />
+    <state x="541" y="262" key="Github.ShareDialog" timestamp="1594536949977">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="541" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1594536949977" />
+    <state width="683" height="185" key="GridCell.Tab.0.bottom" timestamp="1594544914500">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="683" height="185" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594544914500" />
+    <state width="683" height="185" key="GridCell.Tab.0.center" timestamp="1594544914500">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="683" height="185" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1594544914500" />
+    <state width="683" height="185" key="GridCell.Tab.0.left" timestamp="1594544914500">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="683" height="185" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1594544914500" />
+    <state width="683" height="185" key="GridCell.Tab.0.right" timestamp="1594544914500">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="683" height="185" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1594544914500" />
+    <state x="288" y="16" width="1040" height="712" key="SettingsEditor" timestamp="1594544779649">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="288" y="16" width="1040" height="712" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1594544779649" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1594972058655">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1594972058655" />
+    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594544814918">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1594544814918" />
+    <state x="442" y="122" width="776" height="513" key="dock-window-1" timestamp="1594535485639">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="442" y="122" width="776" height="513" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1594535485639" />
+    <state x="442" y="122" width="776" height="513" key="dock-window-2" timestamp="1594535485640">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="442" y="122" width="776" height="513" key="dock-window-2/0.0.1366.728@0.0.1366.728" timestamp="1594535485640" />
+    <state x="442" y="122" width="776" height="513" key="dock-window-3" timestamp="1594535485640">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="442" y="122" width="776" height="513" key="dock-window-3/0.0.1366.728@0.0.1366.728" timestamp="1594535485640" />
+    <state x="451" y="208" key="git4idea.ui.GitTagDialog" timestamp="1594542181437">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="451" y="208" key="git4idea.ui.GitTagDialog/0.0.1366.728@0.0.1366.728" timestamp="1594542181437" />
+    <state x="589" y="61" width="672" height="678" key="search.everywhere.popup" timestamp="1594535014134">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="589" y="61" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1594535014134" />
+  </component>
+</project>
